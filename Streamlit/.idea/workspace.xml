@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b486284-c4e9-4dda-a85b-3938eb8f5fc2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pandas" beforeDir="false" afterPath="$PROJECT_DIR$/../Pandas" afterDir="false" />
-    </list>
+    <list default="true" id="1b486284-c4e9-4dda-a85b-3938eb8f5fc2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,5 +95,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="381" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1630775667111" />
+    <state x="422" y="82" key="FileChooserDialogImpl" timestamp="1630842625822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1630842625822" />
   </component>
 </project>
